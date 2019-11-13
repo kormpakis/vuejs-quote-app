@@ -24,8 +24,7 @@
                 quotes: [
                     'Just a quote'
                 ],
-                maxQuotes: 10,
-                empty: 'aaa'
+                maxQuotes: 10
             }
         },
         methods: {
